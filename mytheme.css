@@ -1,0 +1,39 @@
+/* @theme mytheme */
+
+@import 'uncover';
+
+/* header {
+    background-color: #5e6b7a;
+    color: white;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    height: 50px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+} */
+
+section {
+    /* background-image: url(xitasoblack.png); */
+    background-repeat: no-repeat !important;
+    background-position: 95% 5% !important;
+    background-size: 200px !important;
+}
+
+footer {
+    text-align: left;
+    color: #5e6b7a;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border-top: #5e6b7a 1px solid;
+}
+
+footer span {
+    left: 50px;
+}

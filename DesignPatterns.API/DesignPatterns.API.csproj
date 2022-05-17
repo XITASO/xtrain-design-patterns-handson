@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <nullable>enable</nullable>
     <ImplicitUsings>true</ImplicitUsings>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <AnalysisMode>Recommended</AnalysisMode>
   </PropertyGroup>
 
   <ItemGroup>
